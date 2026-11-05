@@ -1,2 +1,2 @@
 # first
-first repository
+first repository will do new things as I learn more
